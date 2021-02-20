@@ -1,0 +1,11 @@
+PNR         : DB_20210301_102
+Train no    : 1002
+Train Name  : Shatabdi
+Express
+Source      : Delhi
+Destination : Bangalore
+Travel Date : 01/03/2021
+Passengers
+Name                    Age        Gender      TicketFare
+{Dhanasekar K           23          m            2500}
+Total Price: 2500.0
